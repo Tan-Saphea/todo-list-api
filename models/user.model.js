@@ -24,4 +24,3 @@ const schema = new mongoose.Schema(
 const Todo = mongoose.model("Todo", schema);
 
 module.exports = Todo;
-//exprots
